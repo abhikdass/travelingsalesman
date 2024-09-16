@@ -19,9 +19,9 @@ This React application is designed to solve the Traveling Salesman Problem (TSP)
 
 ## Installation
 
-1. **Clone the repository:**
+Clone the repository:
 
-   git clone https://github.com/abhikdass/travelingsalesman
+    git clone https://github.com/abhikdass/travelingsalesman
 Navigate into the project directory:
 
     cd travelingsalesman
