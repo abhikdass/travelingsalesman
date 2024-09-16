@@ -21,11 +21,10 @@ This React application is designed to solve the Traveling Salesman Problem (TSP)
 
 1. **Clone the repository:**
 
-   ```bash
    git clone https://github.com/abhikdass/travelingsalesman
 Navigate into the project directory:
 
-    cd your-repo-name
+    cd travelingsalesman
 
 Install dependencies:
 
@@ -48,7 +47,6 @@ Display Results: Shows the shortest route on a map and provides the total minimu
 Technologies Used
 React: For building the user interface.
 JavaScript: For implementing the TSP solving algorithm.
-D3.js (optional): For visualizing routes on a map (if applicable).
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
